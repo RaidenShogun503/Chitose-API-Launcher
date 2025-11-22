@@ -1,8 +1,11 @@
 {
-  "Version": "1.2.0",
+  "VersionSS": "1.2.0",
+  "VersionHSR": "3.7.0",
   "Background": "https://github.com/arimetson/hotarusr-web-data/blob/main/3.6Launcher.png?raw=true",
-  "DestinationHost": "stellasora.furiri.click",
-  "DestinationPort": 80,
+  "DestinationHostSS": "stellasora.furiri.click",
+  "DestinationPortSS": 80,
+  "DestinationHostHSR": "linhle.io.vn",
+  "DestinationPortHSR": 7635,
   "Annoucement": "",
   "Update": ""
 }
